@@ -1,0 +1,13 @@
+{
+  "name": "Presenter.js",
+  "description": "Big.js + Term.js Get a real terminal inside of your keynotes and presentations. Easy",
+  "author": "Karl Litterfeldt <Kalle.Litterfeldt@gmail.com>",
+  "dependencies": {
+    "express": "3.1.0",
+    "socket.io": "0.9.13",
+    "pty.js": "0.2.4"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
